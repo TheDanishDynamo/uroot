@@ -30,7 +30,7 @@ python uroot myproject
 
 The program will guide you through a series of steps, to install dependencies, e.g. adb, it will assess if your device and it's current software can be rooted, and if it can be rooted what will work, and what will break. It will then do a deeper analysis of connectivity to the device. 
 
-## Anti Use Case
+## Anti User Story
 
 This illustrates the complications of a traditional root procedure. 
 
